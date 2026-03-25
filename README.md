@@ -1,4 +1,4 @@
-# chinvat-mx# 🔀 chinvat-mx
+# 🔀 chinvat-mx
 
 DNS Multiplexing Proxy — part of the [Chinvat](https://github.com/arielesfahani/chinvat) project.
 
